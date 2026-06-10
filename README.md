@@ -1,6 +1,6 @@
 # Predykcja zakupu po reklamie społecznościowej — projekt z Uczenia Maszynowego
 
-**Autor:** Hubert Śliwiński, gr. 2, nr 32532
+> Hubert Śliwiński, gr. 2, nr 32532
 
 **Linki:**
 
@@ -18,11 +18,6 @@ społecznościowej (`Purchased` 0/1). Problem „reklama -> konwersja".
   do szczegółowej analizy wybrano las losowy.
 - **Wynik:** las losowy ok. 90% dokładności (drzewo decyzyjne ok. 88%).
 - **Wizualizacje:** porównanie modeli, wiek i zarobki, macierz pomyłek, ważność cech.
-
-## Jak uruchomić
-
-- **Google Colab:** `Plik → Prześlij notatnik` → `Środowisko wykonawcze → Uruchom wszystko`.
-- **Lokalnie:** `pip install scikit-learn pandas matplotlib seaborn kagglehub`, uruchom wszystkie komórki.
 
 ## Pliki
 
