@@ -5,7 +5,7 @@
 **Linki:**
 
 - GitHub: https://github.com/SliskiPlumek/projekt-ml-smads
-- Google Colab: https://colab.research.google.com/drive/1fD6GqeMK8xh1kBzAsX3HOB0200vUzXLM?usp=sharing
+- Google Colab: [https://colab.research.google.com/drive/1fD6GqeMK8xh1kBzAsX3HOB0200vUzXLM?usp=sharing](https://colab.research.google.com/drive/1ZbPIMMLaGw5AashHPLzH9ODnI7PKv99p?usp=sharing)
 
 ## Opis
 
